@@ -41,7 +41,7 @@ We have created a 3D facial mesh using 3D facial landmarks.
     The input video is converted to frames and the model works on individual frames.
   </li>
   <li>
-    For each frame, face detection is performed and the region of interest i.e., face, is cropped for further processing. This is achieved using Google's Mediapipe library.
+    For each frame, face detection is performed and the region of interest i.e. face, is cropped for further processing. This is achieved using Google's Mediapipe library.
   </li>
   <li>
     From the region of interest, 3D facial landmarks are extracted.
@@ -63,6 +63,7 @@ We have created a 3D facial mesh using 3D facial landmarks.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
+* [NumPy](https://numpy.org/) library.
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
