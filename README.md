@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Anusha Bongale: anushabongale30@gmail.com <br>
 Bhimashankar Malgi: bhimamalgi@gmail.com <br>
 Karthik Jodangi: karthikjodangi333@gmail.com <br>
-Project Link: [https://github.com/karthikjodangi/3DFaceMesh]([https://github.com/your_username/repo_name](https://github.com/karthikjodangi/3DFaceMesh))
+Project Link: [https://github.com/karthikjodangi/3DFaceMesh](https://github.com/karthikjodangi/3DFaceMesh))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
