@@ -82,7 +82,7 @@ Follow these steps to set up the project on your local machine:
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/karthikjodangi/3DFaceMesh.git
    ```
 2. Install the prerequisites
    Setup the python environment
@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Anusha Bongale: anushabongale30@gmail.com <br>
 Bhimashankar Malgi: bhimamalgi@gmail.com <br>
 Karthik Jodangi: karthikjodangi333@gmail.com <br>
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name]([https://github.com/your_username/repo_name](https://github.com/karthikjodangi/3DFaceMesh))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
