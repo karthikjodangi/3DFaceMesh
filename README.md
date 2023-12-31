@@ -1,5 +1,5 @@
 # 3DFaceMesh
-A real time 3D facial mesh which takes 3D facial landmarks as parameters.
+<h3>A real time 3D facial mesh which takes 3D facial landmarks as parameters.</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -77,6 +77,7 @@ Follow these steps to set up the project on your local machine:
 ### Prerequisites
 
 1. The python version on your system must be Python 3.6 or later.
+2. The successful execution of the code requires that a webcam is available in the system.
 
 
 ### Installation
