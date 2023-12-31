@@ -64,11 +64,11 @@ We have created a 3D facial mesh using 3D facial landmarks.
 * [Mediapipe](https://developers.google.com/mediapipe) library.
 * [Matplotlib](https://matplotlib.org/) library.
 * [SciPy](https://scipy.org/) library.
-* [![NumPy][numpy-logo]][numpy-url] library.
-* [![OpenCV][opencv-logo]][opencv-url] library.
-* [![Mediapipe][mediapipe-logo]][mediapipe-url] library.
-* [![Matplotlib][matplotlib-logo]][matplotlib-url] library.
-* [![SciPy][scipy-logo]][scipy-url] library.
+* [![NumPy][numpy-logo]][https://numpy.org/] library.
+* [![OpenCV][opencv-logo]][https://docs.opencv.org/4.x/] library.
+* [![Mediapipe][mediapipe-logo]][https://developers.google.com/mediapipe] library.
+* [![Matplotlib][matplotlib-logo]][https://matplotlib.org/] library.
+* [![SciPy][scipy-logo]][https://scipy.org/] library.
 
 <!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
