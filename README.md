@@ -50,13 +50,13 @@ We have created a 3D facial mesh using 3D facial landmarks.
  
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!--This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.-->
 
 <!--* [![Next][Next.js]][Next-url]-->
 * [NumPy](https://numpy.org/) library.
@@ -65,7 +65,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Matplotlib](https://matplotlib.org/) library.
 * [SciPy](https://scipy.org/) library.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
@@ -96,7 +96,7 @@ Follow these steps to set up the project on your local machine:
    ```sh
    pip install scipy
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
@@ -114,7 +114,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
@@ -135,7 +135,7 @@ Bhimashankar Malgi: bhimamalgi@gmail.com <br>
 Karthik Jodangi: karthikjodangi333@gmail.com <br>
 Project Link: [https://github.com/karthikjodangi/3DFaceMesh](https://github.com/karthikjodangi/3DFaceMesh)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 <!-- ACKNOWLEDGMENTS -->
